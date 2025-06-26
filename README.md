@@ -5,6 +5,7 @@ This project performs customer segmentation on a retail dataset using RFM (Recen
 Goal: Segment customers into distinct groups based on their purchasing patterns to enable targeted marketing and strategic decision-making.
 
 Techniques Used:
+
 Data Cleaning & Preprocessing
 RFM Scoring
 Customer Segmentation (Manual Thresholding)
