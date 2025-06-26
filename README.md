@@ -1,1 +1,1 @@
-# Customer-segmentation-on-retail-dataset
+# Customer-segmentation-on-retail-dataset using RFM analysis
